@@ -8,8 +8,8 @@
     "react-dom": "^18.2.0"
   },
   "scripts": {
-    "dev": "vite",
-    "build": "vite build"
+    "dev": "node init && vite",
+    "build": "node init && vite build"
   },
   "eslintConfig": {
     "extends": [
